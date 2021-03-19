@@ -1,4 +1,4 @@
-module github.com/juanpabloaj/statefulmiddleware
+module github.com/juanpabloaj/statefulmiddlewareexample
 
 go 1.15
 

@@ -110,5 +110,6 @@ func main() {
 
 	r.Use(s.middleware.main)
 
+	log.Println("starting :8080...")
 	log.Fatal(http.ListenAndServe(":8080", r))
 }
